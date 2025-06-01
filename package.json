@@ -1,0 +1,27 @@
+{
+  "name": "log-recorded",
+  "version": "1.0.0",
+  "description": "A lightweight nodejs package for storing logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log-recorder",
+    "log-recorded",
+    "record-logs",
+    "logrecorder",
+    "logs",
+    "log"
+  ],
+  "author": "Samip Tiwari",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samiptwr/log-recorded.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samiptwr/log-recorded/issues"
+  },
+  "homepage": "https://github.com/samiptwr/log-recorded#readme"
+}
