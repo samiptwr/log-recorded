@@ -6,7 +6,7 @@ async function writeLogs(path, date, uuid, reqMethods, reqHeaderOrigin, reqUrl){
    try{
       await fsPromises.appendFile(path, logItem)
    } catch (err) {
-      console.log(err)
+      console.log('Error: ', err)
    }
 }
 
