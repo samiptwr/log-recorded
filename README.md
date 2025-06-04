@@ -1,6 +1,8 @@
 # log-recorded
 A lightweight node js package to store log records for websites.
 
+You can view this at https://www.npmjs.com/package/log-recorded
+
 # Installation
 To install this package, run this commad:
 
